@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "693602910189",
+    "project_id": "unboxing-art-test",
+    "storage_bucket": "unboxing-art-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693602910189:android:78a4da6be7cf792b8c71e4",
+        "android_client_info": {
+          "package_name": "com.darkroompoets.unboxingart_staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693602910189-8a0adv31hm7rr10ejc9g47ersgalm3f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkroompoets.unboxingart_staging",
+            "certificate_hash": "4a656b905eb4b67c52d84962eeafa83e481a84b7"
+          }
+        },
+        {
+          "client_id": "693602910189-mra7gnvpnm8sl6rrn34rhiq516bskc0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkroompoets.unboxingart_staging",
+            "certificate_hash": "c0552b4e3597606e34a570f347a7793a6b4a2164"
+          }
+        },
+        {
+          "client_id": "693602910189-3pakhdacs0q0eid92h5v1cc2i63bfatt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC20jA-_PmC7CgP7wm-WDJQQlVvYvEXC50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693602910189-3pakhdacs0q0eid92h5v1cc2i63bfatt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693602910189:android:0b915c88940496ed8c71e4",
+        "android_client_info": {
+          "package_name": "com.unboxingart.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693602910189-bapgr54ptvapt2ijaa7hdrok6n4r6jkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unboxingart.admin",
+            "certificate_hash": "c0552b4e3597606e34a570f347a7793a6b4a2164"
+          }
+        },
+        {
+          "client_id": "693602910189-3pakhdacs0q0eid92h5v1cc2i63bfatt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC20jA-_PmC7CgP7wm-WDJQQlVvYvEXC50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693602910189-3pakhdacs0q0eid92h5v1cc2i63bfatt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693602910189:android:93421840426ef3b88c71e4",
+        "android_client_info": {
+          "package_name": "com.unboxingart.crm_unboxingart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693602910189-3pakhdacs0q0eid92h5v1cc2i63bfatt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC20jA-_PmC7CgP7wm-WDJQQlVvYvEXC50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693602910189-3pakhdacs0q0eid92h5v1cc2i63bfatt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
